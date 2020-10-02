@@ -1,0 +1,8 @@
+1x raspberry pi
+1x webcam
+1x RGB led with 4 pins
+1x external power supply for the led (3.3V or 5V)
+4x resistors
+3x diodes (to protect the raspberry)
+3x NPN transistors (like the PN2222)
+1x breadboard and wires to mount everything
